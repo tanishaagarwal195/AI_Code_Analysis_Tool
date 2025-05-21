@@ -1,0 +1,18 @@
+
+
+# NLP Libraries
+nltk
+spacy
+scikit-learn
+transformers
+
+# Evaluation & Plotting
+matplotlib
+seaborn
+
+# UI Frameworks (optional)
+streamlit
+flask
+
+# IDE/Jupyter Support
+jupyter
