@@ -3,3 +3,7 @@ project.env
 __pycache__/
 *.pyc
 ml_env/
+*.pyo
+*.pyd
+*.sqlite3
+.env.*
