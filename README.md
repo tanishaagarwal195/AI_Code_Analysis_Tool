@@ -88,4 +88,13 @@ streamlit run app_ui.py
 ---
 
 
+## 📈 APPENDIX
+
+![Terminal Screenshot](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/terminal.png)
+![UI](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/UI.png)
+![STATIC](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/STATIC%20ANALYSIS.png)
+![AI ANALYSIS](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/AI%20analysis.png)
+![HEATMAP](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/HEATMAP.png)
+![READIBILITY](https://github.com/tanishaagarwal195/AI_Code_Analysis_Tool/blob/master/static/readibility.png)
+---
 
